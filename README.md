@@ -9,6 +9,6 @@ Veritabani Final Odevi
 3. MySQL Connector
 4. Python
 5. Tkinter
-6- MySQL Workbench Ayarlar->SQL Editor->Safe Updates tikini kaldirmaniz gerekiyor.
+6. MySQL Workbench Ayarlar->SQL Editor->Safe Updates tikini kaldirmaniz gerekiyor.
 ---
 
